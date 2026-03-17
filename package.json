@@ -1,0 +1,12 @@
+{
+  "name": "mhaiz-openclaw-skills",
+  "version": "0.1.0",
+  "description": "Starter project created by Copilot CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}

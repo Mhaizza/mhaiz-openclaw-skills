@@ -4,9 +4,12 @@
   "description": "Starter project created by Copilot CLI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 1"
+    "test": "jest --colors"
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
 }
